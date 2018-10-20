@@ -1,0 +1,4 @@
+﻿  OSISPFirstLab.cpp
+c:\users\admin\source\repos\osispfirstlab\osispfirstlab\osispfirstlab.cpp(43): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+c:\users\admin\source\repos\osispfirstlab\osispfirstlab\osispfirstlab.cpp(48): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+  OSISPFirstLab.vcxproj -> C:\Users\admin\source\repos\OSISPFirstLab\Debug\OSISPFirstLab.exe
